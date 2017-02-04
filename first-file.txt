@@ -1,1 +1,1 @@
-This is the pramary file.
+This is the primary file.
